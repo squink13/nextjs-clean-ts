@@ -1,6 +1,6 @@
 # Next.js 13 clean starter code
 
-Starter code for a clean Next.js 13 project.
+Starter code for a clean Next.js 13 TypeScript project.
 
 ## Features
 
@@ -27,7 +27,8 @@ npm run dev
 
 ## Includes
 
-- Next.js 13 with TypeScript
+- Next.js
+- TypeScript
 - ESLint
 - Prettier
 - Husky
