@@ -1,10 +1,10 @@
-# Next.js 13 clean starter code
+# Next.js 13 Clean Template
 
-Starter code for a clean Next.js 13 TypeScript project.
+Starter template for a clean Next.js 13 TypeScript project.
 
 ## Features
 
-- Formatting and linting for clean consistent code
+- Formatting and linting for clean and consistent code
 
 ## Installation
 
